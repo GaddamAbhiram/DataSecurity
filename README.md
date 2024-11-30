@@ -1,7 +1,7 @@
 ***Clone the Repository***
 1. Open your terminal and navigate to the directory where you want to clone the repository: **cd /path/to/your/directory**
 2. Clone the repository: **git clone https://github.com/GaddamAbhiram/DataSecurity.git**
-3. Navigate to the cloned directory
+3. Navigate to the cloned directory: **cd DataSecurity**
 
 
 <ins>***Level 1 Instructions***</ins>
